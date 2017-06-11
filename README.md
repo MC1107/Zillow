@@ -1,7 +1,7 @@
 # Zillow
 ### My first team project
 
-## Team members(in alphabetical order): Chen Meody; Song Jing; Wang Clarie ; Yang Emily 
+## Team members(in alphabetical order): Chen Meody; Song Jing; Wang Clarie; Yang Emily 
 
 ## Background
 ### Zillow is a real estate marketplace and database, in which people can search for-sale and rental listings. 
