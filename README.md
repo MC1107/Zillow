@@ -1,9 +1,15 @@
 # Zillow
-### My first team project
+
 
 ### Team members(alphabetical order)
 
-Chen Meody; Song Jing; Wang Clarie; Yang Emily 
+Chen Meody: project documentation, process reporting, data analytics
+
+Song Jing:  coding, data analytics
+
+Wang Clarie: coding, data analytics
+
+Yang Emily:  coding, data analytics 
 
 ### Background
 #### Zillow is a real estate marketplace and database, in which people can search for-sale and rental listings. 
@@ -19,11 +25,11 @@ properties_2016.csv ( information about 2.9 million properties with their home f
 train_2016.csv (information about the transactions)
  
 ### Methods/Tools(tentative)
-### Data cleaning
+#### Data cleaning
 
 Exploratory data analysis
 
-Modeling(using machining learning)
+Modeling(using machine learning)
 
 Visualizations 
 
